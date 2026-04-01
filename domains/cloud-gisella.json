@@ -1,0 +1,12 @@
+{
+  "description": "Nextcloud personal server",
+  "subdomain": "cloud-gisella",
+  "owner": {
+    "email": "alleusai@gmail.com"
+  },
+  "records": {
+    "CNAME": {
+      "@": "example-tunnel-id.cfargotunnel.com"
+    }
+  }
+}
