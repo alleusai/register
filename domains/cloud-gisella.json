@@ -1,8 +1,8 @@
 {
   "description": "Personal Nextcloud instance",
   "owner": {
-    "username": "TUO_USERNAME_GITHUB",
-    "email": "TUO_INDIRIZZO_EMAIL"
+    "username": "alleusai",
+    "email": "alleusai@gmail.com"
   },
   "records": {
     "A": "192.0.2.1"
